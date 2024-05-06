@@ -1,8 +1,8 @@
-import Profile from "./profile/profile";
+import Profile from "./components/profile/profile";
 import userData from "../src/userData.json";
 import FriendList from "../src/FriendList/FriendList";
 import friends from "../src/FriendList.json";
-import TransactionHistory from "./TransactionHistory/TransactionHistory";
+import TransactionHistory from "./components/TransactionHistory/TransactionHistory";
 import transactions from "./transactions.json";
 
 export default function App() {
