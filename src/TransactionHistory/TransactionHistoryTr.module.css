@@ -1,0 +1,11 @@
+.item {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.itemLine:nth-child(odd) {
+  background-color: #fafafa;
+}
+
+.itemLine:nth-child(even) {
+  background-color: grey;
+}

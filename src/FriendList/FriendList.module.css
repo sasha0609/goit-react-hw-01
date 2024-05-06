@@ -1,0 +1,13 @@
+.container {
+  margin: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.info {
+  padding: 8px;
+  outline: auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
